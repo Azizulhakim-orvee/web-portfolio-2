@@ -1,0 +1,75 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+
+}
+.topnav{
+    text-decoration: none;
+    margin:25px;    
+    margin-right: 10px;
+    color:rgb(63, 60, 60);
+}
+.main_topnav{
+    margin-top:50px;
+    margin-right: 100px;
+    position: left;
+    text-align: right;    
+    font-weight:bold;
+    padding-right: 150px;
+}
+.orange{
+    color:rgb(236, 135, 41);
+}
+h1{
+    font-size:70px;
+    color:slategray;
+    height: 40px;
+}
+.button{
+    text-decoration: none;
+    background-color:rgb(76, 174, 231);
+    padding: 25px 40px;
+    color:white;
+    font-weight: 700;
+    font-weight: 900px;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 1%;
+    padding-left: 100px;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 200px;
+
+}   
+
+.low-part{
+    background-image: url(images/bg.jpg);
+    height: 600px;
+    width: 100%;
+}
+#position{
+    text-align: center;
+}
+.width{
+    width: 25%;
+    margin: 30px 20px;
+    padding: 20px;
+    float: left;
+    margin-top: 4%;
+    margin-left: 4% ;
+}
+.color{
+    color: rgb(233, 104, 81);
+}
+.single-project{
+    border-radius: 25px;
+    height: 80%;
+    background-color: white;
+}
