@@ -17,6 +17,7 @@ body{
     text-align: right;    
     font-weight:bold;
     padding-right: 150px;
+    font-size: 15px;
 }
 .orange{
     color:rgb(236, 135, 41);
@@ -105,16 +106,16 @@ nav> a >ul:hovar >li{
     margin: 15% 5%;
 }
 #text-color{
-    color: white;
-    font-size: 60px;
+    color:white;
+    font-size: 40px;
 }
 #link{
     margin-top: 21%;
     text-align: right;
 }
 .footer{
-    margin-top: 4%;
     text-align: center;
+    height: 100%;
 }
 .footer h3{
     color: #696871;
