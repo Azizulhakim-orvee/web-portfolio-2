@@ -8,6 +8,7 @@ body{
     margin:25px;    
     margin-right: 10px;
     color:rgb(63, 60, 60);
+    padding: 20px;
 }
 .main_topnav{
     margin-top:50px;
@@ -46,8 +47,11 @@ h1{
 section{
     height: 500px;
     padding-bottom: 200px;
-
 }   
+
+.yaap{
+    padding-left: 150px;
+}
 
 .low-part{
     background-image: url(images/bg.jpg);
@@ -72,4 +76,91 @@ section{
     border-radius: 25px;
     height: 80%;
     background-color: white;
+}
+
+.topnav:hover{
+    background-color:gray;
+    border-radius: 10px;
+}
+
+.dropdown{
+    display:none;
+}
+
+nav> a >ul:hovar >li{
+    display: block;
+}
+
+.bottom-part{
+    background-image: url(images/Group_33094_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: -5% 15%;
+}
+.last{
+    width: 35%;
+    float: left;
+    padding: 2%;
+    margin: 15% 5%;
+}
+#text-color{
+    color: white;
+    font-size: 60px;
+}
+#link{
+    margin-top: 21%;
+    text-align: right;
+}
+.footer{
+    margin-top: 4%;
+    text-align: center;
+}
+.footer h3{
+    color: #696871;
+    font-size: 25px;
+}
+.footer h2{
+    margin-top: -12px;
+    font-size: 40px;
+    color: #363958;
+}
+.icons{
+    float: left;
+    margin: 0% 45%;
+}
+footer p{
+    margin-top: -10%;
+    font-size: 12px;
+    text-align: center;
+}
+li {
+    text-decoration: none;
+    display: inline;
+    color: #3C3C3C;
+    padding-left: 40px;
+}
+a{
+    text-decoration: none;
+    color:  #3C3C3C;
+}
+.color-change{
+    color: #FF8367;
+}
+.low-part{
+    background-image: url(images/bg.jpg);
+    height: 600px;
+    width: 100%;
+}
+
+#this:hover{
+    color: white;
+}
+
+.goat{
+    float: left;
+}
+
+.love:hover{
+    color:hotpink;
 }
